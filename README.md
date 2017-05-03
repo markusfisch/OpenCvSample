@@ -31,11 +31,6 @@ The (short and very readable) Makefile covers building, running and more.
 On everything else, just import the project into [Android Studio][android]
 and click run.
 
-License
--------
-
-Public Domain. Do whatever you like.
-
 [android]: https://developer.android.com/sdk/
 [opencv]: http://opencv.org/
 [make]: https://en.wikipedia.org/wiki/Make_(software)
